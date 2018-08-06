@@ -1,0 +1,20 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: connect
+    database_user: root
+    database_password: root
+    mailer_transport: smtp
+    mailer_host: s321.syd1.hostingplatform.net.au
+    mailer_port: 465
+    mailer_encryption: ssl
+    mailer_user: admin@cxconnect.com.au
+    mailer_password: CRs369K85E8d
+    secret: ThisTokenIsNotSoSecretChangeIt
+    cxcentral.public_key: 1de05e02c8
+    cxcentral.private_key: eb5a42da3a7484d
+    cxcentral.host: 'https://contactcentrecentral.com/'
+    cxconnect.public_key: 0a7a7f08ce
+    cxconnect.private_key: f43ff470fc67463
+    cxconnect.host: 'https://cxconnect.com.au/'
